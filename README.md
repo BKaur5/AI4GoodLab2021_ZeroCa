@@ -7,7 +7,7 @@ meaning Zero Carbon comes from.
 
 Data Acquisition
 
-The dataset was acquired from a household in Vancouver which involves appliances level power consumption and weather data.
+The dataset was acquired from a household in Vancouver which involves appliance level power consumption and weather data.
 
 
 Predicting Model
