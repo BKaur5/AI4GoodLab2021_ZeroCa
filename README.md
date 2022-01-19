@@ -5,11 +5,6 @@ purposes. For the future, we plan to recommend solutions specific to the user as
 and other constraints to reduce his carbon footprint and cost at the same time. This is the idea from where the name ZeroCa, 
 meaning Zero Carbon comes from.
 
-Data Acquisition
+The dataset was acquired from a household in Vancouver which includes appliance level power consumption and weather data for a house over a period of time.
 
-The dataset was acquired from a household in Vancouver which involves appliance level power consumption and weather data.
-
-
-Predicting Model
-
-We implemented Long Short-Term Memory (LSTM) model 
+We implemented the Long Short-Term Memory (LSTM) model.
